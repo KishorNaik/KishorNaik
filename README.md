@@ -1,5 +1,26 @@
 # 💫 About Me:
-I am Kishor Naik, a dedicated and forward-thinking Senior Software Architect with a Bachelor's degree in Computer Applications. With over 16+ years of experience as a Software Developer, I have evolved into a seasoned Architect, currently contributing my expertise to an emerging Digital Asset Self-Custody organization in the cutting-edge field of Blockchain.<br><br>As a passionate advocate for Modular Monolithic and Microservices-Based Architecture, I am adept at leading architecture refactoring efforts that enable companies to transition from monolithic applications to agile Microservices architectures. My hands-on approach involves building Microservices from the ground up, ensuring they are robust, scalable, and aligned with business objectives.
+I am Kishor Naik, a results-driven Senior Software Architect with over 16 years of experience transforming complex business needs into innovative, scalable & high-performing software solutions. My expertise spans Web2, Web3, and Blockchain development, leveraging modern technologies to help companies unlock new opportunities and achieve operational excellence.
+
+Passionate about creating high-performance systems, I specialize in building robust web applications and scalable architectures that are secure, user-friendly, and aligned with future needs. Whether it’s enhancing traditional Web2 systems or exploring the transformative potential of Web3, I am committed to delivering solutions that add value and drive results.
+
+What We Offer:
+- Expertise in developing scalable Web2 applications using frameworks like ASP.NET Core, Node.js, Next.js (React.js), Express.js, and Nest.js.
+- Advanced capabilities in Web3 development, integrating Blockchain technologies to create decentralized and innovative solutions.
+- In-depth experience in database optimization, ensuring efficient and seamless application performance.
+- Proficiency in cloud platforms like AWS and Azure to deploy and maintain reliable, scalable systems.
+
+Key Highlights:
+- Delivered end-to-end Web2 and Web3 solutions that streamlined client operations and improved customer satisfaction.
+- Designed and implemented Web2 and blockchain-integrated platforms, delivering secure, transparent, and efficient solutions tailored to enhance business operations.
+- Built collaborative partnerships with clients, turning their ideas into powerful, results-driven solutions.
+- Comprehensive support throughout the software development lifecycle, from ideation to maintenance.
+
+How We Work: 
+At the heart of our approach is a commitment to collaboration, innovation, and excellence. We believe in building long-term partnerships with our clients, understanding their unique needs, and tailoring solutions that align with their vision and goals. From conceptualizing ideas to delivering fully functional applications, we focus on creating seamless experiences that drive success.
+
+Let’s Build Your Future Together! If you’re looking for a trusted partner to bring your vision to life—whether it’s advancing Web2 capabilities or diving into the next generation of Web3 and Blockchain applications—I and my team are here to deliver scalable, cutting-edge solutions tailored to your goals.
+
+Our mission is to consistently exceed expectations with value-driven, scalable, and reliable software solutions.
 
 
 ## 🌐 Socials:
